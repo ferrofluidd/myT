@@ -1,4 +1,6 @@
 # Visor-View
+hi soap
+
 Quick program I threw together for a friend, VisorView allows you to view, pose and screenshot animations on the Toontown Rewritten supervisor cogs.
 
 # Usage
@@ -46,7 +48,6 @@ Extract this into a folder of your choosing, and follow the steps outlined in **
 
 ## I did everything, but I'm having errors.
 
-Feel free to register a github account and write an [issue](https://github.com/BoggTech/VisorView/issues/new/choose). I'll try fix it if it's a problem, or guide you if it's not. You can also send me an email to my gloop.group address written on my GitHub profile.
 
 # Acknowledgements
 
